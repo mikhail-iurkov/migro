@@ -3,10 +3,10 @@ name = "migro"
 version = "0.1.0"
 description = ""
 authors = ["Dmitry Mukhin <dm@uploadcare.com>"]
-readme = "README.md"
+readme = "README.rst"
 
 [tool.poetry.dependencies]
-python = "^3.12"
+python = "^3.8"
 
 
 [build-system]
